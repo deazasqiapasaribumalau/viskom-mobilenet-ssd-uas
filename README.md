@@ -1,8 +1,3 @@
-Oke! Saya update **README.md** dengan info yang benar![1][2]
-
-***
-
-```markdown
 # 🎯 MobileNet-SSD Real-Time Object Detection System
 
 Sistem deteksi objek real-time menggunakan MobileNet-SSD dengan fitur intelligent auto-cropping dan optimasi threshold untuk aplikasi surveillance.
@@ -371,6 +366,3 @@ Jika ada pertanyaan atau issue, silakan:
 
 **⭐ Star this repository if you find it helpful!**
 
-```
-
-***
